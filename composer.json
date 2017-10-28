@@ -9,7 +9,14 @@
       "email": "email@example.com"
     }
   ],
-
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/"
+    },
+    "files": [
+      "helpers.php"
+    ]
+  },
   "require": {
     "php-curl-class/php-curl-class": "7.4.0"
   }
