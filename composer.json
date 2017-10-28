@@ -14,7 +14,8 @@
       "App\\": "App/"
     },
     "files": [
-      "helpers.php"
+      "helpers.php",
+      "MySqlDB.php"
     ]
   },
   "require": {
