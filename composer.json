@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/package_name",
+  "description": "basked work with PHP-CURL-CLASS",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "basked",
+      "email": "email@example.com"
+    }
+  ],
+
+  "require": {
+    "php-curl-class/php-curl-class": "7.4.0"
+  }
+}
