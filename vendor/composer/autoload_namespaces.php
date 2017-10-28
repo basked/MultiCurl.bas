@@ -6,4 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'phpQuery' => array($vendorDir . '/coderockr/php-query/src'),
 );
